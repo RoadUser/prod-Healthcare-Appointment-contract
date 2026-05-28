@@ -1,0 +1,11 @@
+{
+  "name": "healthcare-appointments-tests",
+  "version": "1.0.0",
+  "main": "run-tests.js",
+  "scripts": {
+    "test": "node run-tests.js"
+  },
+  "dependencies": {
+    "hotpocket-js-client": "0.5.7"
+  }
+}

@@ -1,0 +1,9 @@
+.vs
+.vscode
+node_modules
+dist
+bundle
+hosts.txt
+instances.txt
+init.json
+.env.development.local
