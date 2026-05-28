@@ -8,7 +8,7 @@ class SharedService {
   static generateUUID() {
     return uuidv4();
   }
-
+//shared
   static getUtcISOStringFromUnixTimestamp(milliseconds) {
     const date = new Date(milliseconds);
     return date.toISOString();
